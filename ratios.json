@@ -1,0 +1,4 @@
+{"1": {"base_currency": "PLN", "target_currency": "EUR", "date_fetched": "2019-09-27", "ratio": 0.2279721874},
+  "2": {"base_currency": "PLN", "target_currency": "USD", "date_fetched": "2019-09-27", "ratio": 0.2492875869},
+  "3": {"base_currency": "USD", "target_currency": "EUR", "date_fetched": "2022-10-24", "ratio": 1.016134},
+  "4": {"base_currency": "USD", "target_currency": "CZK", "date_fetched": "2022-10-24", "ratio": 24.875205}}
